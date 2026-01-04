@@ -1,4 +1,4 @@
-namespace UserService.Domain.Common.Result;
+namespace OrderService.Domain.Comman.Result;
 public enum ErrorKind
 {
     None = 0,

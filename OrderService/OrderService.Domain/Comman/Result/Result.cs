@@ -1,5 +1,5 @@
 
-namespace UserService.Domain.Common.Result;
+namespace OrderService.Domain.Comman.Result;
 
 public class Result : IResult
 {

@@ -1,4 +1,4 @@
-namespace UserService.Domain.Common.Entities;
+namespace OrderService.Domain.Comman.IEntities;
 
 public abstract class Entity
 {

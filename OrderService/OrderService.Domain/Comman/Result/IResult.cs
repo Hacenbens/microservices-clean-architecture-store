@@ -1,4 +1,4 @@
-namespace UserService.Domain.Common.Result;
+namespace OrderService.Domain.Comman.Result;
 public interface IResult
 {
     bool IsSuccess { get; }

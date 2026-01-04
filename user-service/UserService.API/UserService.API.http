@@ -1,6 +1,8 @@
-@UserService.API_HostAddress = http://localhost:5131
+@BaseUrl = http://localhost:5131
 
-GET {{UserService.API_HostAddress}}/weatherforecast/
+POST {{BaseUrl}}/api/User
 Accept: application/json
 
 ###
+
+GET {{BaseUrl}}/api/health
